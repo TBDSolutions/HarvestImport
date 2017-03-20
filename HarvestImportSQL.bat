@@ -1,0 +1,1 @@
+sqlcmd -e -i C:\HarvestImport\SQLImport.sql
